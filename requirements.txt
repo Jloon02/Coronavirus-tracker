@@ -1,0 +1,6 @@
+##### Requirements With Python #####
+selenium ~= 4.0.0
+matplotlib ~= 3.4.3
+PyYAML ~= 6.0
+scipy ~= 1.7.1
+numpy ~= 1.19.4
